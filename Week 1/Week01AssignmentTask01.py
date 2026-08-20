@@ -1,0 +1,1 @@
+print('I want to gain more knowledge of Python and use it to analyze environmental data.')
